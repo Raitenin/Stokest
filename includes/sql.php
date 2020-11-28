@@ -127,7 +127,7 @@ function verificaNivelAcesso($nivel)
 /* Função para retorno da tabela de produtos
 /*--------------------------------------------------------------*/
 function tabelaProdutos(){
-  $sql = "SELECT * FROM produtos ORDER BY id";
+  $sql = "SELECT * FROM produtos ORDER BY nomeProduto";
   $resultado = executaSql($sql);
   return $resultado;
 }
