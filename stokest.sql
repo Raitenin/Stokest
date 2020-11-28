@@ -139,7 +139,6 @@ INSERT INTO `usuarios` (`id`, `nome`, `username`, `password`, `nivelAcesso`, `st
 (3, 'Usuário Estoque', 'estoque', 'd05e3079eacf4d425d6153e7648103a1da0976a8', 3, 1),
 (4, 'Usuário Atendente', 'atendente', '628383eee21d725aa4e829bd52f571784449a418', 4, 1),
 (5, 'Usuário Gerente', 'gerente', 'e0ffb90b074691c42ebd7b3cc39771b344c0083b', 2, 1),
-(15, 'Rafael A. Florindo', 'rafael.florindo', '7c4a8d09ca3762af61e59520943dc26494f8941b', 2, 1);
 
 -- --------------------------------------------------------
 
